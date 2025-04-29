@@ -3,6 +3,7 @@ O Manga Play será a plataforma de streaming da Manga Rosa. Nela, vocês deverã
 
 Link para o dataset: https://drive.google.com/drive/folders/1oVq3bZhEznLWbcabT3cDOc2unzMswP0y?usp=sharing
 
-# Equipe: <nome-da-equipe>
-1. <Nome de fulano>
-2. <Nome de fulana>
+# Equipe: dataMiners
+1. Erica de Jesus
+2. Vinicuis Oliveira
+3. Laysa Lima
