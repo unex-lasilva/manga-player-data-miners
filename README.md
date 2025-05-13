@@ -5,5 +5,5 @@ Link para o dataset: https://drive.google.com/drive/folders/1oVq3bZhEznLWbcabT3c
 
 # Equipe: dataMiners
 1. Erica de Jesus
-2. Vinicuis Oliveira
+2. Vinícius de Oliveira Costa
 3. Laysa Lima
